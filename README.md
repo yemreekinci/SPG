@@ -2,3 +2,6 @@
 Python tabanlı Parola Üretici / Python-based Password Generator
 
 The application UI is Turkish only.
+
+
+https://simplepg.streamlit.app/
